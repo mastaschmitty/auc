@@ -1,0 +1,84 @@
+##################################
+# "CONCLAVE" EVENT PICTURES   	 #
+##################################
+
+spriteTypes = {
+
+	# Conclave
+	
+	spriteType = {
+		name = "GFX_evt_accused"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_bribe_accepted"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_bribe_declined"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_council_agreement"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_council_quarrelling"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_council_speaker"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_leaving_table_angrily"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_hiding_from_pursuers"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_humiliation_prisoner"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_judged_by_ruler"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_machines_of_war"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_noble_haughty_talking_to_peasants"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_noble_in_castle"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_poke_king_in_chest"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_powerful_ruler"
+		texturefile = "gfx\\event_pictures\Joust.tga"
+		allwaystransparent = yes
+	}
+}

@@ -1,0 +1,22 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_game_rules_backgorund"
+		texturefile = "gfx/interface/rule_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_game_rules_banner"
+		texturefile = "gfx/interface/rule_wide_banner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_game_rules_option_bg"
+		texturefile = "gfx/interface/rule_option_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_game_rules_divider"
+		texturefile = "gfx/interface/rule_divider.dds"
+	}
+}
